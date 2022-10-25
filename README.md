@@ -8,6 +8,6 @@
  
    ![](https://github.com/AadityaUoHyd/my-ToDoApp/blob/master/add.jpg)
  
- - Now, Hit this URL (OR click on 'View TODO' option at MENU) to view your listed task : http://localhost:9494/toDoApp/home  
+ - Now, hit this URL (OR click on 'View TODO' option at MENU) to view your listed task : http://localhost:9494/toDoApp/home  
  
    ![](https://github.com/AadityaUoHyd/my-ToDoApp/blob/master/view%20.jpg)
